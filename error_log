@@ -1,0 +1,176 @@
+[14-Nov-2012 00:53:20 UTC] PHP Parse error:  syntax error, unexpected '*', expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 12
+[14-Nov-2012 01:17:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php:24
+Stack trace:
+#0 /home/jzmcond/public_html/applications/estate/application/controllers/main.php(24): SimpleXMLElement->__construct('')
+#1 /home/jzmcond/public_html/applications/estate/application/controllers/main.php(14): Main->getTradeMeListingTypes()
+#2 [internal function]: Main->index()
+#3 /home/jzmcond/public_html/applications/estate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/jzmcond/public_html/applications/estate/index.php(202): require_once('/home/jzmcond/p...')
+#5 {main}
+  thrown in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 24
+[14-Nov-2012 04:24:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 31
+[14-Nov-2012 04:24:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 31
+[16-Nov-2012 01:20:09 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 35
+[16-Nov-2012 01:20:30 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 35
+[16-Nov-2012 01:21:40 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 36
+[16-Nov-2012 01:21:55 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 36
+[16-Nov-2012 01:45:39 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 39
+[16-Nov-2012 01:56:54 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 39
+[16-Nov-2012 02:00:45 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 36
+[16-Nov-2012 02:01:01 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 36
+[16-Nov-2012 02:01:11 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 36
+[16-Nov-2012 03:23:37 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 39
+[16-Nov-2012 03:23:49 UTC] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 39
+[16-Nov-2012 03:45:28 UTC] PHP Fatal error:  Call to a member function ListingId() on a non-object in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 43
+[16-Nov-2012 03:45:56 UTC] PHP Fatal error:  Function name must be a string in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 43
+[16-Nov-2012 04:37:21 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 42
+[16-Nov-2012 04:44:37 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 43
+[16-Nov-2012 04:45:05 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 43
+[16-Nov-2012 04:47:19 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 43
+[16-Nov-2012 06:46:24 UTC] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 56
+[16-Nov-2012 22:05:54 UTC] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 47
+[16-Nov-2012 22:08:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 57
+[16-Nov-2012 22:33:17 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 52
+[16-Nov-2012 22:33:34 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 52
+[16-Nov-2012 22:34:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 57
+[16-Nov-2012 22:34:53 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 53
+[16-Nov-2012 22:35:09 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 53
+[16-Nov-2012 22:35:10 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 53
+[16-Nov-2012 22:50:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 42
+[17-Nov-2012 00:28:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 47
+[17-Nov-2012 20:31:03 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 44
+[17-Nov-2012 20:59:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 47
+[17-Nov-2012 21:09:18 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 21:09:32 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 21:11:19 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 48
+[17-Nov-2012 21:32:43 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 45
+[17-Nov-2012 21:34:14 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 45
+[17-Nov-2012 21:34:33 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 45
+[17-Nov-2012 21:35:11 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 45
+[17-Nov-2012 21:37:49 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 21:43:00 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 45
+[17-Nov-2012 21:43:02 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 45
+[17-Nov-2012 21:43:36 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 21:43:53 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 47
+[17-Nov-2012 21:44:08 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 47
+[17-Nov-2012 21:44:10 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 50
+[17-Nov-2012 21:44:17 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 50
+[17-Nov-2012 21:44:30 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 53
+[17-Nov-2012 21:44:44 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 54
+[17-Nov-2012 21:45:03 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 54
+[17-Nov-2012 21:45:36 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 54
+[17-Nov-2012 21:48:14 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 21:48:34 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 21:48:35 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 21:48:36 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 21:48:54 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 46
+[17-Nov-2012 23:54:52 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 30
+[17-Nov-2012 23:55:19 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 30
+[18-Nov-2012 05:24:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 75
+[18-Nov-2012 05:25:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:25:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:26:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 76
+[18-Nov-2012 05:27:23 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 85
+[18-Nov-2012 05:27:48 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 85
+[18-Nov-2012 21:35:23 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 85
+[18-Nov-2012 21:35:33 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 85
+[18-Nov-2012 21:40:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 93
+[18-Nov-2012 21:44:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 87
+[18-Nov-2012 21:45:34 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 89
+[18-Nov-2012 21:45:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[18-Nov-2012 21:56:42 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[18-Nov-2012 22:56:41 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ';' or '{' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 65
+[18-Nov-2012 22:59:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 93
+[18-Nov-2012 22:59:49 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ';' or '{' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 65
+[18-Nov-2012 22:59:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 92
+[18-Nov-2012 23:04:39 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 90
+[18-Nov-2012 23:04:49 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 90
+[20-Nov-2012 21:48:21 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[20-Nov-2012 21:48:28 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 92
+[20-Nov-2012 21:48:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 91
+[20-Nov-2012 22:46:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 75
+[20-Nov-2012 22:46:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 75
+[20-Nov-2012 22:47:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 75
+[20-Nov-2012 22:47:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 75
+[20-Nov-2012 23:12:41 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[20-Nov-2012 23:14:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 83
+[20-Nov-2012 23:14:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 83
+[20-Nov-2012 23:23:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 84
+[20-Nov-2012 23:24:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 84
+[20-Nov-2012 23:24:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 95
+[21-Nov-2012 01:57:58 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 78
+[21-Nov-2012 09:43:26 UTC] PHP Fatal error:  Call to undefined method Main::test() in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 15
+[21-Nov-2012 09:44:36 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 91
+[21-Nov-2012 09:44:41 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 91
+[21-Nov-2012 17:01:54 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 94
+[21-Nov-2012 19:40:58 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 92
+[21-Nov-2012 19:45:33 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[21-Nov-2012 19:50:42 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[21-Nov-2012 19:51:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 105
+[21-Nov-2012 19:51:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 105
+[21-Nov-2012 20:27:10 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 61
+[21-Nov-2012 20:54:19 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[21-Nov-2012 20:58:16 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 103
+[21-Nov-2012 20:58:18 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 103
+[21-Nov-2012 21:00:59 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[22-Nov-2012 00:14:45 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 103
+[22-Nov-2012 00:14:47 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 103
+[22-Nov-2012 00:23:33 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 61
+[22-Nov-2012 00:44:28 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 61
+[22-Nov-2012 00:44:30 UTC] PHP Parse error:  syntax error, unexpected T_AS in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 104
+[22-Nov-2012 00:44:32 UTC] PHP Parse error:  syntax error, unexpected T_AS in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 104
+[22-Nov-2012 01:13:34 UTC] PHP Parse error:  syntax error, unexpected $end in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 14
+[22-Nov-2012 01:13:37 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 112
+[22-Nov-2012 01:13:39 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 112
+[23-Nov-2012 03:28:35 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 61
+[23-Nov-2012 03:29:37 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 61
+[23-Nov-2012 03:34:45 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 125
+[23-Nov-2012 03:34:48 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 125
+[23-Nov-2012 03:34:49 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 125
+[23-Nov-2012 04:43:16 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 61
+[24-Nov-2012 03:12:00 UTC] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ',' or ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 108
+[27-Nov-2012 05:41:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 129
+[27-Nov-2012 20:12:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 132
+[27-Nov-2012 20:12:20 UTC] PHP Fatal error:  Call to undefined function view() in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 128
+[27-Nov-2012 21:08:40 UTC] PHP Fatal error:  Call to undefined function view() in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 125
+[27-Nov-2012 21:11:05 UTC] PHP Fatal error:  Call to undefined function view() in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 125
+[27-Nov-2012 21:12:27 UTC] PHP Fatal error:  Call to undefined function view() in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 125
+[27-Nov-2012 21:12:30 UTC] PHP Fatal error:  Call to undefined function view() in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 125
+[27-Nov-2012 21:12:39 UTC] PHP Fatal error:  Call to undefined function view() in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 125
+[27-Nov-2012 23:04:26 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 101
+[28-Nov-2012 00:16:43 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 113
+[28-Nov-2012 01:33:28 UTC] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 115
+[28-Nov-2012 01:34:06 UTC] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 115
+[28-Nov-2012 02:14:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 123
+[28-Nov-2012 03:13:19 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 29
+[28-Nov-2012 03:13:21 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 29
+[28-Nov-2012 20:16:44 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 57
+[28-Nov-2012 20:16:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 58
+[28-Nov-2012 21:17:19 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 66
+[28-Nov-2012 21:17:24 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 66
+[28-Nov-2012 23:10:24 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 181
+[28-Nov-2012 23:42:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 191
+[29-Nov-2012 00:13:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 193
+[29-Nov-2012 00:27:06 UTC] PHP Parse error:  syntax error, unexpected T_AS, expecting ']' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 193
+[29-Nov-2012 01:30:04 UTC] PHP Fatal error:  Function name must be a string in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 208
+[29-Nov-2012 04:58:05 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 284
+[29-Nov-2012 05:21:49 UTC] PHP Fatal error:  [] operator not supported for strings in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 279
+[29-Nov-2012 05:22:22 UTC] PHP Fatal error:  [] operator not supported for strings in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 279
+[29-Nov-2012 05:22:49 UTC] PHP Fatal error:  [] operator not supported for strings in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 278
+[29-Nov-2012 05:23:10 UTC] PHP Fatal error:  [] operator not supported for strings in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 280
+[29-Nov-2012 18:39:38 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 271
+[29-Nov-2012 21:00:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 302
+[29-Nov-2012 21:00:45 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/jzmcond/public_html/applications/estate/application/views/home.php on line 4
+[29-Nov-2012 21:17:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/jzmcond/public_html/applications/estate/application/views/home.php on line 51
+[29-Nov-2012 21:51:56 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jzmcond/public_html/applications/estate/application/views/home.php on line 49
+[27-Dec-2012 22:30:34 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 286
+[27-Dec-2012 22:33:35 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/jzmcond/public_html/applications/estate/application/controllers/main.php on line 284
+[25-Jan-2013 08:09:47 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/jzmcond/public_html/applications/estate/application/views/sections.php on line 8
